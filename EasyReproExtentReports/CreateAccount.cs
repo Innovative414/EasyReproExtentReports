@@ -56,6 +56,10 @@ namespace EasyReproExtentReports
         [Description("Test should fail with no error")]
         public void JustFail()
         {
+            // Example log entries
+            Test.Info("Log an information message");
+            Test.Warning("Log a warning message");
+
             // Test code here
 
             Assert.Fail("Test failed because the passing criteria was not met");
