@@ -100,6 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CreateAccount.cs" />
+    <Compile Include="CreateLead.cs" />
     <Compile Include="TestBase.cs" />
     <Compile Include="TestSettings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
