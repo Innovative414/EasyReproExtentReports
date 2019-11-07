@@ -99,6 +99,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Custom_Funktion.cs" />
     <Compile Include="CreateAccount.cs" />
     <Compile Include="CreateLead.cs" />
     <Compile Include="TestBase.cs" />
